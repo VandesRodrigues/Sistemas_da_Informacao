@@ -1,0 +1,6 @@
+Nm_Cliente = input("Digite o nome do cliente: ")
+Dia_Vcto = input("Digite o dia de vencimento: ")
+Mes_Vcto = input("Digite o mês de vencimento: ")
+Vlr_Fatura = input("Digite o valor da fatura: ")
+print("Olá,",Nm_Cliente)
+print("A sua fatura com vencimento em",Dia_Vcto,"de",Mes_Vcto,"no valor de R$",Vlr_Fatura,"está fechada.")
