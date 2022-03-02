@@ -1,0 +1,1 @@
+Este repositório, é um compilado de exercícios que uso e usarei durante a minha formação no curso de Sistemas da Informação pela Universidade do Oeste de Santa Catarina - UNOESC.
